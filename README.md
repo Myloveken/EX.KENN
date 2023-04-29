@@ -13,9 +13,9 @@ ENTRADA
 A entrada contém vários casos de teste. Cada linha de entrada, com exceção da última, contém um número não-negativo, decimal ou hexa. O valor decimal será menor ou igual a 231. A última linha contém um número negativo que não deve ser processado, indicando o encerramento do programa.
 SAÍDA
 Para cada linha de entrada (exceto a última) deve ser produzido uma linha de saída. Todo número hexadecimal deve ser precedido na saída por '0x' (zero xis).
-Exemplo de Entrada                     Exemplo de Saída
-4                                          0x4
-7                                          0x7
-44                                         0x2C
-0x80685                                    525957
--1
+Exemplo de Entrada                                                        Exemplo de Saída
+      4                                                                               0x4
+      7                                                                               0x7
+      44                                                                              0x2C
+      0x80685                                                                         525957
+      -1
