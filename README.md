@@ -3,7 +3,9 @@
 ## Exercicio Beecrowd 1199
 
 Por Shahriar Manzoor  Bangladesh
-### Resolvendo por Kenlove Chereste        
+
+### Resolvendo por Kenlove Chereste
+
                                                               Timelimit: 2           
                                 img./<https://resources.beecrowd.com.br/gallery/images/problems/UOJ_1199.gif>
 Neste problema você é solicitado a escrever um simples programa de conversão de base. A entrada será um valor hexadecimal ou decimal. Você deverá converter cada valor da entrada. Se o valor for hexadecimal, você deve convertê-lo para decimal e vice-versa. O valor hexadecimal inicia sempre com “0x” ou também, é aquele valor cuja segunda casa contém a letra 'x'.
@@ -17,4 +19,3 @@ Para cada linha de entrada (exceto a última) deve ser produzido uma linha de sa
             44                                          0x2C
             0x80685                                     525957
             -1
-            
